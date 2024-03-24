@@ -1,0 +1,49 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: rgba(62, 242, 227, 0.674);
+}
+/* debu bannierre */
+.banner 
+{
+    width: 100%;
+    height: 100px;
+    background:linear-gradient(to bottom,rgba(62, 242, 227, 0.674),rgb(36, 155, 235) ); 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+/* fin banniere */
+footer
+{
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background:linear-gradient(to top,rgba(62, 242, 227, 0.674),rgb(36, 155, 235) ); 
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 50px;
+    position: bottom;
+    
+}
+a
+{
+    text-align: center;
+}
+p
+{
+    padding: 5px;
+    text-align: justify;
+    justify-content: center;
+}
+ul
+{
+    text-align: center;
+}
+
